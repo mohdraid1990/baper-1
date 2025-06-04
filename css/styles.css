@@ -279,7 +279,7 @@ select.error {
   padding: var(--spacing-lg);
   border: 1px solid var(--primary-color);
   border-radius: var(--border-radius);
-  background-color: #fef8e7;
+  background-color: #31302d;
 }
 .success-message svg {
   color: var(--primary-color);
